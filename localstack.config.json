@@ -1,0 +1,14 @@
+[
+    {
+        "directory": "your\\directory\\here",
+        "commands": [
+            "your commands"
+        ]
+    },
+    {
+        "directory": "your\\directory\\here",
+        "commands": [
+            "your commands"
+        ]
+    }
+]
