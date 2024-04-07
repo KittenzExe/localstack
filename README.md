@@ -1,6 +1,6 @@
 ![localstack](https://github.com/KittenzExe/localstack/assets/67358250/2984d9a8-5318-4c42-afce-27c42314b56d)
 
-A rust program to run multiple projects at once with a single program.
+A simple, lightweight rust program to run multiple projects at once with a single program.
 
 # ⚙️ Usage
 
