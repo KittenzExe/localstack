@@ -43,8 +43,6 @@ With both `localstack.exe` and `localstack.config.json` in the same directory, y
 
 > ./target/release/localstack or ./target/release/localstack.exe
 
+# 📖 Licence
 
-
-
-
-
+Under the [GNU Affero General Public License v3.0](https://github.com/KittenzExe/localstack?tab=AGPL-3.0-1-ov-file)
